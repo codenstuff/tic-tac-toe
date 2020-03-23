@@ -1,6 +1,5 @@
 # tic-tac-toe
 A tic tac toe console game written in Python.
-<<<<<<< HEAD
 =======
 
 ## Objectives
@@ -10,4 +9,3 @@ A tic tac toe console game written in Python.
 
 ## Project Strategy
 TODO
->>>>>>> development
